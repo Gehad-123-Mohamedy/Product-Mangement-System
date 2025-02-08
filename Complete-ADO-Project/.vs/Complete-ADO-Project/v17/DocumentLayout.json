@@ -1,0 +1,426 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC95FFF4-B175-4FBE-847F-B0CD37D6C162}|COMPLETE-ADO-Project.Presentation\\COMPLETE-ADO-Project.Presentation.csproj|c:\\users\\lulut\\source\\repos\\complete-ado-project\\complete-ado-project.presentation\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC95FFF4-B175-4FBE-847F-B0CD37D6C162}|COMPLETE-ADO-Project.Presentation\\COMPLETE-ADO-Project.Presentation.csproj|solutionrelative:complete-ado-project.presentation\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC95FFF4-B175-4FBE-847F-B0CD37D6C162}|COMPLETE-ADO-Project.Presentation\\COMPLETE-ADO-Project.Presentation.csproj|c:\\users\\lulut\\source\\repos\\complete-ado-project\\complete-ado-project.presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC95FFF4-B175-4FBE-847F-B0CD37D6C162}|COMPLETE-ADO-Project.Presentation\\COMPLETE-ADO-Project.Presentation.csproj|solutionrelative:complete-ado-project.presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC95FFF4-B175-4FBE-847F-B0CD37D6C162}|COMPLETE-ADO-Project.Presentation\\COMPLETE-ADO-Project.Presentation.csproj|c:\\users\\lulut\\source\\repos\\complete-ado-project\\complete-ado-project.presentation\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC95FFF4-B175-4FBE-847F-B0CD37D6C162}|COMPLETE-ADO-Project.Presentation\\COMPLETE-ADO-Project.Presentation.csproj|solutionrelative:complete-ado-project.presentation\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12942640-4E8C-4C12-B618-B176F6D6EFDB}|COMPLETE-ADO-PROject.Business\\COMPLETE-ADO-PROject.Business.csproj|c:\\users\\lulut\\source\\repos\\complete-ado-project\\complete-ado-project.business\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12942640-4E8C-4C12-B618-B176F6D6EFDB}|COMPLETE-ADO-PROject.Business\\COMPLETE-ADO-PROject.Business.csproj|solutionrelative:complete-ado-project.business\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12942640-4E8C-4C12-B618-B176F6D6EFDB}|COMPLETE-ADO-PROject.Business\\COMPLETE-ADO-PROject.Business.csproj|c:\\users\\lulut\\source\\repos\\complete-ado-project\\complete-ado-project.business\\categriesservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12942640-4E8C-4C12-B618-B176F6D6EFDB}|COMPLETE-ADO-PROject.Business\\COMPLETE-ADO-PROject.Business.csproj|solutionrelative:complete-ado-project.business\\categriesservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12942640-4E8C-4C12-B618-B176F6D6EFDB}|COMPLETE-ADO-PROject.Business\\COMPLETE-ADO-PROject.Business.csproj|c:\\users\\lulut\\source\\repos\\complete-ado-project\\complete-ado-project.business\\favouriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12942640-4E8C-4C12-B618-B176F6D6EFDB}|COMPLETE-ADO-PROject.Business\\COMPLETE-ADO-PROject.Business.csproj|solutionrelative:complete-ado-project.business\\favouriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC95FFF4-B175-4FBE-847F-B0CD37D6C162}|COMPLETE-ADO-Project.Presentation\\COMPLETE-ADO-Project.Presentation.csproj|C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\complete-ado-project.presentation\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC95FFF4-B175-4FBE-847F-B0CD37D6C162}|COMPLETE-ADO-Project.Presentation\\COMPLETE-ADO-Project.Presentation.csproj|solutionrelative:complete-ado-project.presentation\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12942640-4E8C-4C12-B618-B176F6D6EFDB}|COMPLETE-ADO-PROject.Business\\COMPLETE-ADO-PROject.Business.csproj|c:\\users\\lulut\\source\\repos\\complete-ado-project\\complete-ado-project.business\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12942640-4E8C-4C12-B618-B176F6D6EFDB}|COMPLETE-ADO-PROject.Business\\COMPLETE-ADO-PROject.Business.csproj|solutionrelative:complete-ado-project.business\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B53DC89-75CC-49A8-9B5C-BBBB38E5386D}|COMLETE-ADO-PROject.DataAccess\\COMLETE-ADO-PROject.DataAccess.csproj|c:\\users\\lulut\\source\\repos\\complete-ado-project\\comlete-ado-project.dataaccess\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B53DC89-75CC-49A8-9B5C-BBBB38E5386D}|COMLETE-ADO-PROject.DataAccess\\COMLETE-ADO-PROject.DataAccess.csproj|solutionrelative:comlete-ado-project.dataaccess\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B53DC89-75CC-49A8-9B5C-BBBB38E5386D}|COMLETE-ADO-PROject.DataAccess\\COMLETE-ADO-PROject.DataAccess.csproj|c:\\users\\lulut\\source\\repos\\complete-ado-project\\comlete-ado-project.dataaccess\\comlete-ado-project.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B53DC89-75CC-49A8-9B5C-BBBB38E5386D}|COMLETE-ADO-PROject.DataAccess\\COMLETE-ADO-PROject.DataAccess.csproj|solutionrelative:comlete-ado-project.dataaccess\\comlete-ado-project.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\fffSQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:fffSQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC95FFF4-B175-4FBE-847F-B0CD37D6C162}|COMPLETE-ADO-Project.Presentation\\COMPLETE-ADO-Project.Presentation.csproj|C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\complete-ado-project.presentation\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC95FFF4-B175-4FBE-847F-B0CD37D6C162}|COMPLETE-ADO-Project.Presentation\\COMPLETE-ADO-Project.Presentation.csproj|solutionrelative:complete-ado-project.presentation\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC95FFF4-B175-4FBE-847F-B0CD37D6C162}|COMPLETE-ADO-Project.Presentation\\COMPLETE-ADO-Project.Presentation.csproj|C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\complete-ado-project.presentation\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC95FFF4-B175-4FBE-847F-B0CD37D6C162}|COMPLETE-ADO-Project.Presentation\\COMPLETE-ADO-Project.Presentation.csproj|solutionrelative:complete-ado-project.presentation\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC95FFF4-B175-4FBE-847F-B0CD37D6C162}|COMPLETE-ADO-Project.Presentation\\COMPLETE-ADO-Project.Presentation.csproj|c:\\users\\lulut\\source\\repos\\complete-ado-project\\complete-ado-project.presentation\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC95FFF4-B175-4FBE-847F-B0CD37D6C162}|COMPLETE-ADO-Project.Presentation\\COMPLETE-ADO-Project.Presentation.csproj|solutionrelative:complete-ado-project.presentation\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\sssssSQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sssssSQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC95FFF4-B175-4FBE-847F-B0CD37D6C162}|COMPLETE-ADO-Project.Presentation\\COMPLETE-ADO-Project.Presentation.csproj|C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\complete-ado-project.presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC95FFF4-B175-4FBE-847F-B0CD37D6C162}|COMPLETE-ADO-Project.Presentation\\COMPLETE-ADO-Project.Presentation.csproj|solutionrelative:complete-ado-project.presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\SssQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SssQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC95FFF4-B175-4FBE-847F-B0CD37D6C162}|COMPLETE-ADO-Project.Presentation\\COMPLETE-ADO-Project.Presentation.csproj|c:\\users\\lulut\\source\\repos\\complete-ado-project\\complete-ado-project.presentation\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC95FFF4-B175-4FBE-847F-B0CD37D6C162}|COMPLETE-ADO-Project.Presentation\\COMPLETE-ADO-Project.Presentation.csproj|solutionrelative:complete-ado-project.presentation\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC95FFF4-B175-4FBE-847F-B0CD37D6C162}|COMPLETE-ADO-Project.Presentation\\COMPLETE-ADO-Project.Presentation.csproj|c:\\users\\lulut\\source\\repos\\complete-ado-project\\complete-ado-project.presentation\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC95FFF4-B175-4FBE-847F-B0CD37D6C162}|COMPLETE-ADO-Project.Presentation\\COMPLETE-ADO-Project.Presentation.csproj|solutionrelative:complete-ado-project.presentation\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\SsQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SsQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC95FFF4-B175-4FBE-847F-B0CD37D6C162}|COMPLETE-ADO-Project.Presentation\\COMPLETE-ADO-Project.Presentation.csproj|c:\\users\\lulut\\source\\repos\\complete-ado-project\\complete-ado-project.presentation\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC95FFF4-B175-4FBE-847F-B0CD37D6C162}|COMPLETE-ADO-Project.Presentation\\COMPLETE-ADO-Project.Presentation.csproj|solutionrelative:complete-ado-project.presentation\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\lASTSQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lASTSQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12942640-4E8C-4C12-B618-B176F6D6EFDB}|COMPLETE-ADO-PROject.Business\\COMPLETE-ADO-PROject.Business.csproj|c:\\users\\lulut\\source\\repos\\complete-ado-project\\complete-ado-project.business\\complete-ado-project.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12942640-4E8C-4C12-B618-B176F6D6EFDB}|COMPLETE-ADO-PROject.Business\\COMPLETE-ADO-PROject.Business.csproj|solutionrelative:complete-ado-project.business\\complete-ado-project.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lulut\\AppData\\Local\\Temp\\ns3iczlv..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-Project.Presentation\\Form1.cs",
+              "RelativeDocumentMoniker": "COMPLETE-ADO-Project.Presentation\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-Project.Presentation\\Form1.cs",
+              "RelativeToolTip": "COMPLETE-ADO-Project.Presentation\\Form1.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAEUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:24:26.346Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMLETE-ADO-PROject.DataAccess\\DBContext.cs",
+              "RelativeDocumentMoniker": "COMLETE-ADO-PROject.DataAccess\\DBContext.cs",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMLETE-ADO-PROject.DataAccess\\DBContext.cs",
+              "RelativeToolTip": "COMLETE-ADO-PROject.DataAccess\\DBContext.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:27:24.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-PROject.Business\\UsersService.cs",
+              "RelativeDocumentMoniker": "COMPLETE-ADO-PROject.Business\\UsersService.cs",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-PROject.Business\\UsersService.cs",
+              "RelativeToolTip": "COMPLETE-ADO-PROject.Business\\UsersService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:59:30.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-Project.Presentation\\Form4.cs",
+              "RelativeDocumentMoniker": "COMPLETE-ADO-Project.Presentation\\Form4.cs",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-Project.Presentation\\Form4.cs",
+              "RelativeToolTip": "COMPLETE-ADO-Project.Presentation\\Form4.cs",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAAABEBAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:12:51.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsService.cs",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-PROject.Business\\ProductsService.cs",
+              "RelativeDocumentMoniker": "COMPLETE-ADO-PROject.Business\\ProductsService.cs",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-PROject.Business\\ProductsService.cs",
+              "RelativeToolTip": "COMPLETE-ADO-PROject.Business\\ProductsService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:59:46.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FavouriteService.cs",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-PROject.Business\\FavouriteService.cs",
+              "RelativeDocumentMoniker": "COMPLETE-ADO-PROject.Business\\FavouriteService.cs",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-PROject.Business\\FavouriteService.cs",
+              "RelativeToolTip": "COMPLETE-ADO-PROject.Business\\FavouriteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:23:13.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategriesServies.cs",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-PROject.Business\\CategriesServies.cs",
+              "RelativeDocumentMoniker": "COMPLETE-ADO-PROject.Business\\CategriesServies.cs",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-PROject.Business\\CategriesServies.cs",
+              "RelativeToolTip": "COMPLETE-ADO-PROject.Business\\CategriesServies.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:25:13.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-Project.Presentation\\Form2.cs",
+              "RelativeDocumentMoniker": "COMPLETE-ADO-Project.Presentation\\Form2.cs",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-Project.Presentation\\Form2.cs [Design]",
+              "RelativeToolTip": "COMPLETE-ADO-Project.Presentation\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:33:40.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-Project.Presentation\\Form2.cs",
+              "RelativeDocumentMoniker": "COMPLETE-ADO-Project.Presentation\\Form2.cs",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-Project.Presentation\\Form2.cs",
+              "RelativeToolTip": "COMPLETE-ADO-Project.Presentation\\Form2.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAFQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:35:45.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "fffSQLQuery2.sql",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\fffSQLQuery2.sql",
+              "RelativeDocumentMoniker": "fffSQLQuery2.sql",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\fffSQLQuery2.sql",
+              "RelativeToolTip": "fffSQLQuery2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-14T17:56:14.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-Project.Presentation\\Form4.cs",
+              "RelativeDocumentMoniker": "COMPLETE-ADO-Project.Presentation\\Form4.cs",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-Project.Presentation\\Form4.cs [Design]",
+              "RelativeToolTip": "COMPLETE-ADO-Project.Presentation\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:57:10.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-Project.Presentation\\Form3.cs",
+              "RelativeDocumentMoniker": "COMPLETE-ADO-Project.Presentation\\Form3.cs",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-Project.Presentation\\Form3.cs [Design]",
+              "RelativeToolTip": "COMPLETE-ADO-Project.Presentation\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:48:35.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-Project.Presentation\\Form3.cs",
+              "RelativeDocumentMoniker": "COMPLETE-ADO-Project.Presentation\\Form3.cs",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-Project.Presentation\\Form3.cs",
+              "RelativeToolTip": "COMPLETE-ADO-Project.Presentation\\Form3.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAHYAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:50:04.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "COMLETE-ADO-PROject.DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMLETE-ADO-PROject.DataAccess\\COMLETE-ADO-PROject.DataAccess.csproj",
+              "RelativeDocumentMoniker": "COMLETE-ADO-PROject.DataAccess\\COMLETE-ADO-PROject.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMLETE-ADO-PROject.DataAccess\\COMLETE-ADO-PROject.DataAccess.csproj",
+              "RelativeToolTip": "COMLETE-ADO-PROject.DataAccess\\COMLETE-ADO-PROject.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-04T14:40:03.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "sssssSQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\sssssSQLQuery1.sql",
+              "RelativeDocumentMoniker": "sssssSQLQuery1.sql",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\sssssSQLQuery1.sql",
+              "RelativeToolTip": "sssssSQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-14T17:23:44.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-Project.Presentation\\Form1.cs",
+              "RelativeDocumentMoniker": "COMPLETE-ADO-Project.Presentation\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-Project.Presentation\\Form1.cs [Design]",
+              "RelativeToolTip": "COMPLETE-ADO-Project.Presentation\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:27:56.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SssQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\SssQLQuery1.sql",
+              "RelativeDocumentMoniker": "SssQLQuery1.sql",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\SssQLQuery1.sql",
+              "RelativeToolTip": "SssQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-13T14:56:21.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-Project.Presentation\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "COMPLETE-ADO-Project.Presentation\\Form3.Designer.cs",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-Project.Presentation\\Form3.Designer.cs",
+              "RelativeToolTip": "COMPLETE-ADO-Project.Presentation\\Form3.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAPBxwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:48:41.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-Project.Presentation\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "COMPLETE-ADO-Project.Presentation\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-Project.Presentation\\Form1.Designer.cs",
+              "RelativeToolTip": "COMPLETE-ADO-Project.Presentation\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:20:43.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SsQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\SsQLQuery1.sql",
+              "RelativeDocumentMoniker": "SsQLQuery1.sql",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\SsQLQuery1.sql",
+              "RelativeToolTip": "SsQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-13T12:16:26.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-Project.Presentation\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "COMPLETE-ADO-Project.Presentation\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-Project.Presentation\\Form2.Designer.cs",
+              "RelativeToolTip": "COMPLETE-ADO-Project.Presentation\\Form2.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADgvxYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:33:46.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "lASTSQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\lASTSQLQuery1.sql",
+              "RelativeDocumentMoniker": "lASTSQLQuery1.sql",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\lASTSQLQuery1.sql",
+              "RelativeToolTip": "lASTSQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-11T14:46:40.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "COMPLETE-ADO-PROject.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-PROject.Business\\COMPLETE-ADO-PROject.Business.csproj",
+              "RelativeDocumentMoniker": "COMPLETE-ADO-PROject.Business\\COMPLETE-ADO-PROject.Business.csproj",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMPLETE-ADO-PROject.Business\\COMPLETE-ADO-PROject.Business.csproj",
+              "RelativeToolTip": "COMPLETE-ADO-PROject.Business\\COMPLETE-ADO-PROject.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-04T14:32:19.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SQLQuery2.sql",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\SQLQuery2.sql",
+              "RelativeDocumentMoniker": "SQLQuery2.sql",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\SQLQuery2.sql",
+              "RelativeToolTip": "SQLQuery2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-07T10:36:53.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ns3iczlv..sql",
+              "DocumentMoniker": "C:\\Users\\Lulut\\AppData\\Local\\Temp\\ns3iczlv..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\ns3iczlv..sql",
+              "ToolTip": "C:\\Users\\Lulut\\AppData\\Local\\Temp\\ns3iczlv..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\ns3iczlv..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-07T10:21:31.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-04T19:20:31.605Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
