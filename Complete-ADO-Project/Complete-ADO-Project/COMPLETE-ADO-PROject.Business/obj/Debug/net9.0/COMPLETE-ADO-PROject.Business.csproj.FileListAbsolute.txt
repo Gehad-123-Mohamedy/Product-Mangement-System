@@ -1,0 +1,15 @@
+C:\Users\Lulut\source\repos\Complete-ADO-Project\COMPLETE-ADO-PROject.Business\bin\Debug\net9.0\COMPLETE-ADO-PROject.Business.deps.json
+C:\Users\Lulut\source\repos\Complete-ADO-Project\COMPLETE-ADO-PROject.Business\bin\Debug\net9.0\COMPLETE-ADO-PROject.Business.dll
+C:\Users\Lulut\source\repos\Complete-ADO-Project\COMPLETE-ADO-PROject.Business\bin\Debug\net9.0\COMPLETE-ADO-PROject.Business.pdb
+C:\Users\Lulut\source\repos\Complete-ADO-Project\COMPLETE-ADO-PROject.Business\bin\Debug\net9.0\COMLETE-ADO-PROject.DataAccess.dll
+C:\Users\Lulut\source\repos\Complete-ADO-Project\COMPLETE-ADO-PROject.Business\bin\Debug\net9.0\COMLETE-ADO-PROject.DataAccess.pdb
+C:\Users\Lulut\source\repos\Complete-ADO-Project\COMPLETE-ADO-PROject.Business\obj\Debug\net9.0\COMPLETE-ADO-PROject.Business.csproj.AssemblyReference.cache
+C:\Users\Lulut\source\repos\Complete-ADO-Project\COMPLETE-ADO-PROject.Business\obj\Debug\net9.0\COMPLETE-ADO-PROject.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lulut\source\repos\Complete-ADO-Project\COMPLETE-ADO-PROject.Business\obj\Debug\net9.0\COMPLETE-ADO-PROject.Business.AssemblyInfoInputs.cache
+C:\Users\Lulut\source\repos\Complete-ADO-Project\COMPLETE-ADO-PROject.Business\obj\Debug\net9.0\COMPLETE-ADO-PROject.Business.AssemblyInfo.cs
+C:\Users\Lulut\source\repos\Complete-ADO-Project\COMPLETE-ADO-PROject.Business\obj\Debug\net9.0\COMPLETE-ADO-PROject.Business.csproj.CoreCompileInputs.cache
+C:\Users\Lulut\source\repos\Complete-ADO-Project\COMPLETE-ADO-PROject.Business\obj\Debug\net9.0\COMPLETE.7B5F1EEC.Up2Date
+C:\Users\Lulut\source\repos\Complete-ADO-Project\COMPLETE-ADO-PROject.Business\obj\Debug\net9.0\COMPLETE-ADO-PROject.Business.dll
+C:\Users\Lulut\source\repos\Complete-ADO-Project\COMPLETE-ADO-PROject.Business\obj\Debug\net9.0\refint\COMPLETE-ADO-PROject.Business.dll
+C:\Users\Lulut\source\repos\Complete-ADO-Project\COMPLETE-ADO-PROject.Business\obj\Debug\net9.0\COMPLETE-ADO-PROject.Business.pdb
+C:\Users\Lulut\source\repos\Complete-ADO-Project\COMPLETE-ADO-PROject.Business\obj\Debug\net9.0\ref\COMPLETE-ADO-PROject.Business.dll

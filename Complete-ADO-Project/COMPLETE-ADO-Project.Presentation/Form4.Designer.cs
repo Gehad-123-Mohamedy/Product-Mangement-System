@@ -378,9 +378,9 @@
             label2.ForeColor = Color.White;
             label2.Location = new Point(22, 8);
             label2.Name = "label2";
-            label2.Size = new Size(278, 22);
+            label2.Size = new Size(239, 22);
             label2.TabIndex = 2;
-            label2.Text = "Users Admins Mangement System";
+            label2.Text = "Products Mangement System";
             // 
             // pictureBox1
             // 

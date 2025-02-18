@@ -172,9 +172,9 @@
             label2.ForeColor = Color.White;
             label2.Location = new Point(11, 8);
             label2.Name = "label2";
-            label2.Size = new Size(278, 22);
+            label2.Size = new Size(239, 22);
             label2.TabIndex = 1;
-            label2.Text = "Users Admins Mangement System";
+            label2.Text = "Products Mangement System";
             // 
             // label1
             // 

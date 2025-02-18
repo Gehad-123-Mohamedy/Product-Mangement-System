@@ -47,11 +47,11 @@
             txt_confirmPass = new TextBox();
             panel1 = new Panel();
             lbl_signup = new Label();
-            label3 = new Label();
             pictureBox1 = new PictureBox();
             label1 = new Label();
             btn_Clear = new Button();
             exit = new Label();
+            label4 = new Label();
             ((System.ComponentModel.ISupportInitialize)nUD_age).BeginInit();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
@@ -306,8 +306,8 @@
             // panel1
             // 
             panel1.BackColor = Color.FromArgb(75, 8, 138);
+            panel1.Controls.Add(label4);
             panel1.Controls.Add(lbl_signup);
-            panel1.Controls.Add(label3);
             panel1.Controls.Add(pictureBox1);
             panel1.Controls.Add(btn_returnToLogin);
             panel1.Dock = DockStyle.Left;
@@ -328,21 +328,10 @@
             lbl_signup.TabIndex = 11;
             lbl_signup.Text = "Login Your Account";
             // 
-            // label3
-            // 
-            label3.AutoSize = true;
-            label3.Font = new Font("Tahoma", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label3.ForeColor = Color.White;
-            label3.Location = new Point(12, 281);
-            label3.Name = "label3";
-            label3.Size = new Size(395, 28);
-            label3.TabIndex = 10;
-            label3.Text = "Users Admins Mangment System";
-            // 
             // pictureBox1
             // 
             pictureBox1.Image = Properties.Resources.login_ICon2;
-            pictureBox1.Location = new Point(114, 104);
+            pictureBox1.Location = new Point(127, 112);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(157, 151);
             pictureBox1.SizeMode = PictureBoxSizeMode.CenterImage;
@@ -389,6 +378,17 @@
             exit.TabIndex = 25;
             exit.Text = "x";
             exit.Click += exit_Click;
+            // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.Font = new Font("Tahoma", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label4.ForeColor = Color.White;
+            label4.Location = new Point(49, 303);
+            label4.Name = "label4";
+            label4.Size = new Size(339, 28);
+            label4.TabIndex = 19;
+            label4.Text = "Products Mangment System";
             // 
             // Form2
             // 
@@ -451,10 +451,10 @@
         private TextBox txt_confirmPass;
         private Panel panel1;
         private PictureBox pictureBox1;
-        private Label label3;
         private Label label1;
         private Label lbl_signup;
         private Button btn_Clear;
         private Label exit;
+        private Label label4;
     }
 }

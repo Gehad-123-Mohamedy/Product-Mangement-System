@@ -1,0 +1,12 @@
+C:\Users\Lulut\source\repos\Complete-ADO-Project\COMLETE-ADO-PROject.DataAccess\bin\Debug\net9.0\COMLETE-ADO-PROject.DataAccess.deps.json
+C:\Users\Lulut\source\repos\Complete-ADO-Project\COMLETE-ADO-PROject.DataAccess\bin\Debug\net9.0\COMLETE-ADO-PROject.DataAccess.dll
+C:\Users\Lulut\source\repos\Complete-ADO-Project\COMLETE-ADO-PROject.DataAccess\bin\Debug\net9.0\COMLETE-ADO-PROject.DataAccess.pdb
+C:\Users\Lulut\source\repos\Complete-ADO-Project\COMLETE-ADO-PROject.DataAccess\obj\Debug\net9.0\COMLETE-ADO-PROject.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Lulut\source\repos\Complete-ADO-Project\COMLETE-ADO-PROject.DataAccess\obj\Debug\net9.0\COMLETE-ADO-PROject.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lulut\source\repos\Complete-ADO-Project\COMLETE-ADO-PROject.DataAccess\obj\Debug\net9.0\COMLETE-ADO-PROject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Lulut\source\repos\Complete-ADO-Project\COMLETE-ADO-PROject.DataAccess\obj\Debug\net9.0\COMLETE-ADO-PROject.DataAccess.AssemblyInfo.cs
+C:\Users\Lulut\source\repos\Complete-ADO-Project\COMLETE-ADO-PROject.DataAccess\obj\Debug\net9.0\COMLETE-ADO-PROject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Lulut\source\repos\Complete-ADO-Project\COMLETE-ADO-PROject.DataAccess\obj\Debug\net9.0\COMLETE-ADO-PROject.DataAccess.dll
+C:\Users\Lulut\source\repos\Complete-ADO-Project\COMLETE-ADO-PROject.DataAccess\obj\Debug\net9.0\refint\COMLETE-ADO-PROject.DataAccess.dll
+C:\Users\Lulut\source\repos\Complete-ADO-Project\COMLETE-ADO-PROject.DataAccess\obj\Debug\net9.0\COMLETE-ADO-PROject.DataAccess.pdb
+C:\Users\Lulut\source\repos\Complete-ADO-Project\COMLETE-ADO-PROject.DataAccess\obj\Debug\net9.0\ref\COMLETE-ADO-PROject.DataAccess.dll

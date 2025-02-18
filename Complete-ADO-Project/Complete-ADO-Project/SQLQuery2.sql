@@ -1,0 +1,1 @@
+﻿select  ProductId , ProductName ,Price ,CategoryId from Products

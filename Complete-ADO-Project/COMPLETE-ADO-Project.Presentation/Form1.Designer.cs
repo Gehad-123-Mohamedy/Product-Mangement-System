@@ -208,11 +208,11 @@
             label3.AutoSize = true;
             label3.Font = new Font("Tahoma", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label3.ForeColor = Color.White;
-            label3.Location = new Point(28, 299);
+            label3.Location = new Point(55, 299);
             label3.Name = "label3";
-            label3.Size = new Size(395, 28);
+            label3.Size = new Size(339, 28);
             label3.TabIndex = 7;
-            label3.Text = "Users Admins Mangment System";
+            label3.Text = "Products Mangment System";
             // 
             // label1
             // 

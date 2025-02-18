@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMLETE-ADO-PROject.DataAccess\\COMLETE-ADO-PROject.DataAccess.csproj": {}
+    "C:\\Users\\Lulut\\Desktop\\AdoProject\\Complete-ADO-Project\\COMLETE-ADO-PROject.DataAccess\\COMLETE-ADO-PROject.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMLETE-ADO-PROject.DataAccess\\COMLETE-ADO-PROject.DataAccess.csproj": {
+    "C:\\Users\\Lulut\\Desktop\\AdoProject\\Complete-ADO-Project\\COMLETE-ADO-PROject.DataAccess\\COMLETE-ADO-PROject.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMLETE-ADO-PROject.DataAccess\\COMLETE-ADO-PROject.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Lulut\\Desktop\\AdoProject\\Complete-ADO-Project\\COMLETE-ADO-PROject.DataAccess\\COMLETE-ADO-PROject.DataAccess.csproj",
         "projectName": "COMLETE-ADO-PROject.DataAccess",
-        "projectPath": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMLETE-ADO-PROject.DataAccess\\COMLETE-ADO-PROject.DataAccess.csproj",
+        "projectPath": "C:\\Users\\Lulut\\Desktop\\AdoProject\\Complete-ADO-Project\\COMLETE-ADO-PROject.DataAccess\\COMLETE-ADO-PROject.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Lulut\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lulut\\source\\repos\\Complete-ADO-Project\\COMLETE-ADO-PROject.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Lulut\\Desktop\\AdoProject\\Complete-ADO-Project\\COMLETE-ADO-PROject.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
